@@ -1,0 +1,12 @@
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\AccountsApplication.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\repository\AccountsRepository.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\Loans.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\Customer.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\config\AccountsServiceConfig.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\Properties.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\Cards.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\controller\AccountsController.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\CustomerDetails.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\model\Accounts.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\service\client\LoansFeignClient.java
+C:\Users\dev.chouhan_infobean\Downloads\microservices-with-spring-sectionwise-code-master\section8\accounts\src\main\java\com\eazybytes\accounts\service\client\CardsFeignClient.java
